@@ -13,8 +13,6 @@ bin/debug/joystick.d
 bin/debug/joystick.o
 bin/debug/randomPlacement.d
 bin/debug/randomPlacement.o
-joystick.c
-joystick.h
 snake.hex
 snake.map
 bin/debug/snakeMovement.d
