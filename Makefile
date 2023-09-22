@@ -11,7 +11,7 @@ LDFLAGS=-mmcu=$(MCU)
 PORT=\\\\.\\COM7
 BIN=snake
 OUT=${BIN}.hex
-SOURCES = main.c millis.c max72xx.c uart.c analogRead.c joystick.c randomPlacement.c
+SOURCES = main.c millis.c max72xx.c uart.c analogRead.c joystick.c snake.c food.c
 
 DEBUG?=1
 

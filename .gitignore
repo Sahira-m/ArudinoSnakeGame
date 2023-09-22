@@ -11,9 +11,9 @@ bin/debug/uart.d
 bin/debug/uart.o
 bin/debug/joystick.d
 bin/debug/joystick.o
-bin/debug/randomPlacement.d
-bin/debug/randomPlacement.o
 snake.hex
 snake.map
-bin/debug/snakeMovement.d
-bin/debug/snakeMovement.o
+bin/debug/snake.d
+bin/debug/snakeM.o
+bin/debug/food.d
+bin/debug/food.o

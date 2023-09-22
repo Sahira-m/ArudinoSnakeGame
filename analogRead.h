@@ -2,6 +2,6 @@
 #define _ANALOGREAD_H_
 #include <avr/io.h>
 
-uint16_t analogRead(uint8_t apin) ;
+uint16_t analogRead(uint8_t apin);
 
 #endif
